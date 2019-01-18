@@ -26,7 +26,7 @@ npm i -g fetch-readme
 echo https://github.com/uetchy/fetch-readme | fetch-readme
 fetch-readme https://github.com/uetchy/fetch-readme
 
-npm home fetch-readme | fetch-readme | mdcat
+npm info fetch-readme homepage | fetch-readme | mdcat
 ```
 
 ## Maintainers
