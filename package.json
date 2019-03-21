@@ -13,10 +13,10 @@
     "node-fetch": "^2.3.0"
   },
   "devDependencies": {
-    "coveralls": "^3.0.2",
-    "mocha": "^5.2.0",
+    "coveralls": "^3.0.3",
+    "mocha": "^6.0.2",
     "nock": "^10.0.6",
-    "nyc": "^13.1.0"
+    "nyc": "^13.3.0"
   },
   "bin": {
     "fetch-readme": "bin/fetch-readme.js"
