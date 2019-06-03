@@ -9,14 +9,16 @@
     "coverage": "nyc report --reporter=text-lcov | coveralls"
   },
   "dependencies": {
+    "fetch-readme": "^1.0.0",
+    "global": "^4.3.2",
     "minimist": "^1.2.0",
-    "node-fetch": "^2.3.0"
+    "node-fetch": "^2.6.0"
   },
   "devDependencies": {
     "coveralls": "^3.0.3",
-    "mocha": "^6.0.2",
+    "mocha": "^6.1.4",
     "nock": "^10.0.6",
-    "nyc": "^13.3.0"
+    "nyc": "^14.1.1"
   },
   "bin": {
     "fetch-readme": "bin/fetch-readme.js"
