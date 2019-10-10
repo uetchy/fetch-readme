@@ -10,14 +10,14 @@
   },
   "dependencies": {
     "fetch-readme": "^1.0.0",
-    "global": "^4.3.2",
+    "global": "^4.4.0",
     "minimist": "^1.2.0",
     "node-fetch": "^2.6.0"
   },
   "devDependencies": {
-    "coveralls": "^3.0.3",
-    "mocha": "^6.1.4",
-    "nock": "^10.0.6",
+    "coveralls": "^3.0.6",
+    "mocha": "^6.2.1",
+    "nock": "^11.4.0",
     "nyc": "^14.1.1"
   },
   "bin": {
